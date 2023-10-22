@@ -1,0 +1,1409 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\testtieplan4.bundle.scp.css",
+      "PackagePath": "staticwebassets\\testtieplan4.bundle.scp.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\css\\goodgames.css",
+      "PackagePath": "staticwebassets\\css\\goodgames.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\css\\goodgames.min.css",
+      "PackagePath": "staticwebassets\\css\\goodgames.min.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\HienNgu.png",
+      "PackagePath": "staticwebassets\\images\\HienNgu.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar-1.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar-2.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar-3.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\bg-bottom.png",
+      "PackagePath": "staticwebassets\\images\\bg-bottom.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\bg-fixed-1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-fixed-1.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\bg-fixed-2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-fixed-2.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\bg-fixed-3.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-fixed-3.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\bg-top-2.png",
+      "PackagePath": "staticwebassets\\images\\bg-top-2.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\bg-top-3.png",
+      "PackagePath": "staticwebassets\\images\\bg-top-3.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\bg-top-4.png",
+      "PackagePath": "staticwebassets\\images\\bg-top-4.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\bg-top-5.png",
+      "PackagePath": "staticwebassets\\images\\bg-top-5.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\bg-top.png",
+      "PackagePath": "staticwebassets\\images\\bg-top.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\cficon.png",
+      "PackagePath": "staticwebassets\\images\\cficon.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\codlogo.png",
+      "PackagePath": "staticwebassets\\images\\codlogo.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-1-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-1-thumb.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-1.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-10-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-10-thumb.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-10.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-10.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-11-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-11-thumb.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-11.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-11.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-12-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-12-thumb.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-12.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-12.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-2-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-2-thumb.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-2.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-3-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-3-thumb.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-3.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-4-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-4-thumb.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-4.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-5-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-5-thumb.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-5.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-6-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-6-thumb.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-6.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-7-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-7-thumb.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-7.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-8-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-8-thumb.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-8.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-9-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-9-thumb.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-9.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-9.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-group-1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-group-1.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-group-2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-group-2.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-group-3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-group-3.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-group-4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-group-4.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-group-5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-group-5.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\gallery-group-6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-group-6.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\icon-gamepad-2.png",
+      "PackagePath": "staticwebassets\\images\\icon-gamepad-2.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\icon-gamepad.png",
+      "PackagePath": "staticwebassets\\images\\icon-gamepad.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\icon-mouse.png",
+      "PackagePath": "staticwebassets\\images\\icon-mouse.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\logo-2.png",
+      "PackagePath": "staticwebassets\\images\\logo-2.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\logone.png",
+      "PackagePath": "staticwebassets\\images\\logone.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\logone2.png",
+      "PackagePath": "staticwebassets\\images\\logone2.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\logone3.png",
+      "PackagePath": "staticwebassets\\images\\logone3.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\logovip.png",
+      "PackagePath": "staticwebassets\\images\\logovip.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\logovipz.png",
+      "PackagePath": "staticwebassets\\images\\logovipz.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\pegi-icon.jpg",
+      "PackagePath": "staticwebassets\\images\\pegi-icon.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-1-fw.jpg",
+      "PackagePath": "staticwebassets\\images\\post-1-fw.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-1-mid-square.jpg",
+      "PackagePath": "staticwebassets\\images\\post-1-mid-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-1-mid.jpg",
+      "PackagePath": "staticwebassets\\images\\post-1-mid.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-1-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\post-1-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-1.jpg",
+      "PackagePath": "staticwebassets\\images\\post-1.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-2-fw.jpg",
+      "PackagePath": "staticwebassets\\images\\post-2-fw.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-2-mid-square.jpg",
+      "PackagePath": "staticwebassets\\images\\post-2-mid-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-2-mid.jpg",
+      "PackagePath": "staticwebassets\\images\\post-2-mid.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-2-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\post-2-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-2.jpg",
+      "PackagePath": "staticwebassets\\images\\post-2.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-3-fw.jpg",
+      "PackagePath": "staticwebassets\\images\\post-3-fw.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-3-mid-square.jpg",
+      "PackagePath": "staticwebassets\\images\\post-3-mid-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-3-mid.jpg",
+      "PackagePath": "staticwebassets\\images\\post-3-mid.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-3-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\post-3-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-3.jpg",
+      "PackagePath": "staticwebassets\\images\\post-3.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-4-fw.jpg",
+      "PackagePath": "staticwebassets\\images\\post-4-fw.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-4-mid-square.jpg",
+      "PackagePath": "staticwebassets\\images\\post-4-mid-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-4-mid.jpg",
+      "PackagePath": "staticwebassets\\images\\post-4-mid.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-4-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\post-4-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-4.jpg",
+      "PackagePath": "staticwebassets\\images\\post-4.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-5-fw.jpg",
+      "PackagePath": "staticwebassets\\images\\post-5-fw.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-5-mid-square.jpg",
+      "PackagePath": "staticwebassets\\images\\post-5-mid-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-5-mid.jpg",
+      "PackagePath": "staticwebassets\\images\\post-5-mid.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-5-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\post-5-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-5.jpg",
+      "PackagePath": "staticwebassets\\images\\post-5.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-6-fw.jpg",
+      "PackagePath": "staticwebassets\\images\\post-6-fw.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-6-mid-square.jpg",
+      "PackagePath": "staticwebassets\\images\\post-6-mid-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-6-mid.jpg",
+      "PackagePath": "staticwebassets\\images\\post-6-mid.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-6-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\post-6-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-6.jpg",
+      "PackagePath": "staticwebassets\\images\\post-6.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-7-fw.jpg",
+      "PackagePath": "staticwebassets\\images\\post-7-fw.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-7-mid-square.jpg",
+      "PackagePath": "staticwebassets\\images\\post-7-mid-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-7-mid.jpg",
+      "PackagePath": "staticwebassets\\images\\post-7-mid.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-7-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\post-7-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-7.jpg",
+      "PackagePath": "staticwebassets\\images\\post-7.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-8-fw.jpg",
+      "PackagePath": "staticwebassets\\images\\post-8-fw.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-8-mid-square.jpg",
+      "PackagePath": "staticwebassets\\images\\post-8-mid-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-8-mid.jpg",
+      "PackagePath": "staticwebassets\\images\\post-8-mid.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-8-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\post-8-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-8.jpg",
+      "PackagePath": "staticwebassets\\images\\post-8.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-9-fw.jpg",
+      "PackagePath": "staticwebassets\\images\\post-9-fw.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-9-mid-square.jpg",
+      "PackagePath": "staticwebassets\\images\\post-9-mid-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-9-mid.jpg",
+      "PackagePath": "staticwebassets\\images\\post-9-mid.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-9-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\post-9-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-9.jpg",
+      "PackagePath": "staticwebassets\\images\\post-9.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\post-inner-img.jpg",
+      "PackagePath": "staticwebassets\\images\\post-inner-img.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-1-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\product-1-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-1-md.jpg",
+      "PackagePath": "staticwebassets\\images\\product-1-md.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-1-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\product-1-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-1-square.jpg",
+      "PackagePath": "staticwebassets\\images\\product-1-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-1-xs.jpg",
+      "PackagePath": "staticwebassets\\images\\product-1-xs.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-1.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-10-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\product-10-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-10-md.jpg",
+      "PackagePath": "staticwebassets\\images\\product-10-md.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-10-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\product-10-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-10-square.jpg",
+      "PackagePath": "staticwebassets\\images\\product-10-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-10-xs.jpg",
+      "PackagePath": "staticwebassets\\images\\product-10-xs.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-10.jpg",
+      "PackagePath": "staticwebassets\\images\\product-10.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-11-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\product-11-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-11-md.jpg",
+      "PackagePath": "staticwebassets\\images\\product-11-md.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-11-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\product-11-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-11-square.jpg",
+      "PackagePath": "staticwebassets\\images\\product-11-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-11-xs.jpg",
+      "PackagePath": "staticwebassets\\images\\product-11-xs.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-11.jpg",
+      "PackagePath": "staticwebassets\\images\\product-11.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-12-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\product-12-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-12-md.jpg",
+      "PackagePath": "staticwebassets\\images\\product-12-md.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-12-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\product-12-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-12-square.jpg",
+      "PackagePath": "staticwebassets\\images\\product-12-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-12-xs.jpg",
+      "PackagePath": "staticwebassets\\images\\product-12-xs.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-12.jpg",
+      "PackagePath": "staticwebassets\\images\\product-12.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-13-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\product-13-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-13-md.jpg",
+      "PackagePath": "staticwebassets\\images\\product-13-md.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-13-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\product-13-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-13-square.jpg",
+      "PackagePath": "staticwebassets\\images\\product-13-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-13-xs.jpg",
+      "PackagePath": "staticwebassets\\images\\product-13-xs.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-13.jpg",
+      "PackagePath": "staticwebassets\\images\\product-13.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-14-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\product-14-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-14-md.jpg",
+      "PackagePath": "staticwebassets\\images\\product-14-md.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-14-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\product-14-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-14-square.jpg",
+      "PackagePath": "staticwebassets\\images\\product-14-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-14-xs.jpg",
+      "PackagePath": "staticwebassets\\images\\product-14-xs.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-14.jpg",
+      "PackagePath": "staticwebassets\\images\\product-14.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-15-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\product-15-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-15-md.jpg",
+      "PackagePath": "staticwebassets\\images\\product-15-md.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-15-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\product-15-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-15-square.jpg",
+      "PackagePath": "staticwebassets\\images\\product-15-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-15-xs.jpg",
+      "PackagePath": "staticwebassets\\images\\product-15-xs.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-15.jpg",
+      "PackagePath": "staticwebassets\\images\\product-15.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-16-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\product-16-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-16-md.jpg",
+      "PackagePath": "staticwebassets\\images\\product-16-md.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-16-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\product-16-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-16-square.jpg",
+      "PackagePath": "staticwebassets\\images\\product-16-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-16-xs.jpg",
+      "PackagePath": "staticwebassets\\images\\product-16-xs.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-16.jpg",
+      "PackagePath": "staticwebassets\\images\\product-16.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-2-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\product-2-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-2-md.jpg",
+      "PackagePath": "staticwebassets\\images\\product-2-md.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-2-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\product-2-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-2-square.jpg",
+      "PackagePath": "staticwebassets\\images\\product-2-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-2-xs.jpg",
+      "PackagePath": "staticwebassets\\images\\product-2-xs.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-2.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-3-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\product-3-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-3-md.jpg",
+      "PackagePath": "staticwebassets\\images\\product-3-md.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-3-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\product-3-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-3-square.jpg",
+      "PackagePath": "staticwebassets\\images\\product-3-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-3-xs.jpg",
+      "PackagePath": "staticwebassets\\images\\product-3-xs.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-3.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-4-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\product-4-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-4-md.jpg",
+      "PackagePath": "staticwebassets\\images\\product-4-md.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-4-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\product-4-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-4-square.jpg",
+      "PackagePath": "staticwebassets\\images\\product-4-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-4-xs.jpg",
+      "PackagePath": "staticwebassets\\images\\product-4-xs.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-4.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-5-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\product-5-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-5-md.jpg",
+      "PackagePath": "staticwebassets\\images\\product-5-md.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-5-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\product-5-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-5-square.jpg",
+      "PackagePath": "staticwebassets\\images\\product-5-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-5-xs.jpg",
+      "PackagePath": "staticwebassets\\images\\product-5-xs.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-5.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-6-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\product-6-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-6-md.jpg",
+      "PackagePath": "staticwebassets\\images\\product-6-md.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-6-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\product-6-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-6-square.jpg",
+      "PackagePath": "staticwebassets\\images\\product-6-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-6-xs.jpg",
+      "PackagePath": "staticwebassets\\images\\product-6-xs.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-6.jpg",
+      "PackagePath": "staticwebassets\\images\\product-6.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-7-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\product-7-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-7-md.jpg",
+      "PackagePath": "staticwebassets\\images\\product-7-md.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-7-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\product-7-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-7-square.jpg",
+      "PackagePath": "staticwebassets\\images\\product-7-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-7-xs.jpg",
+      "PackagePath": "staticwebassets\\images\\product-7-xs.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-7.jpg",
+      "PackagePath": "staticwebassets\\images\\product-7.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-8-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\product-8-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-8-md.jpg",
+      "PackagePath": "staticwebassets\\images\\product-8-md.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-8-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\product-8-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-8-square.jpg",
+      "PackagePath": "staticwebassets\\images\\product-8-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-8-xs.jpg",
+      "PackagePath": "staticwebassets\\images\\product-8-xs.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-8.jpg",
+      "PackagePath": "staticwebassets\\images\\product-8.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-9-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\product-9-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-9-md.jpg",
+      "PackagePath": "staticwebassets\\images\\product-9-md.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-9-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\product-9-sm.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-9-square.jpg",
+      "PackagePath": "staticwebassets\\images\\product-9-square.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-9-xs.jpg",
+      "PackagePath": "staticwebassets\\images\\product-9-xs.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\product-9.jpg",
+      "PackagePath": "staticwebassets\\images\\product-9.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\slide-1-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-1-thumb.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\slide-1.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-1.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\slide-2-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-2-thumb.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\slide-2.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-2.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\slide-3-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-3-thumb.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\slide-3.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-3.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\slide-4-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-4-thumb.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\slide-4.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-4.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\slide-5-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-5-thumb.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\slide-5.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-5.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\team-1-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\team-1-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\team-1.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\team-2-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\team-2-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\team-2.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\team-3-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\team-3-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\team-3.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\team-4-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\team-4-lg.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\team-4.jpg",
+      "PackagePath": "staticwebassets\\images\\team-4.jpg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\team-photo.png",
+      "PackagePath": "staticwebassets\\images\\team-photo.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\teammate-1.png",
+      "PackagePath": "staticwebassets\\images\\teammate-1.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\images\\teammate-team.png",
+      "PackagePath": "staticwebassets\\images\\teammate-team.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\js\\demo.js",
+      "PackagePath": "staticwebassets\\js\\demo.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\js\\goodgames-init.js",
+      "PackagePath": "staticwebassets\\js\\goodgames-init.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\js\\goodgames.js",
+      "PackagePath": "staticwebassets\\js\\goodgames.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\js\\goodgames.min.js",
+      "PackagePath": "staticwebassets\\js\\goodgames.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\mp3\\OctoSound-sport.mp3",
+      "PackagePath": "staticwebassets\\mp3\\OctoSound-sport.mp3"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\mp3\\soundroll-total-overdrive.mp3",
+      "PackagePath": "staticwebassets\\mp3\\soundroll-total-overdrive.mp3"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\php\\ajax-contact-form.php",
+      "PackagePath": "staticwebassets\\php\\ajax-contact-form.php"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\php\\instagram\\config.php",
+      "PackagePath": "staticwebassets\\php\\instagram\\config.php"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\php\\instagram\\instagram.php",
+      "PackagePath": "staticwebassets\\php\\instagram\\instagram.php"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\php\\twitter\\cache\\bf84dcd0dcbe091695c7a789e6e9e53d",
+      "PackagePath": "staticwebassets\\php\\twitter\\cache"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\php\\twitter\\config.php",
+      "PackagePath": "staticwebassets\\php\\twitter\\config.php"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\php\\twitter\\tweet.php",
+      "PackagePath": "staticwebassets\\php\\twitter\\tweet.php"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\php\\twitter\\twitteroauth\\OAuth.php",
+      "PackagePath": "staticwebassets\\php\\twitter\\twitteroauth\\OAuth.php"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\php\\twitter\\twitteroauth\\twitteroauth.php",
+      "PackagePath": "staticwebassets\\php\\twitter\\twitteroauth\\twitteroauth.php"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\plugins\\nk-share\\nk-share.js",
+      "PackagePath": "staticwebassets\\plugins\\nk-share\\nk-share.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\bootstrap-slider\\dist\\bootstrap-slider.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-slider\\dist\\bootstrap-slider.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\bootstrap-slider\\dist\\css\\bootstrap-slider.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-slider\\dist\\css\\bootstrap-slider.min.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\flickity\\dist\\flickity.min.css",
+      "PackagePath": "staticwebassets\\vendor\\flickity\\dist\\flickity.min.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\flickity\\dist\\flickity.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\flickity\\dist\\flickity.pkgd.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\fontawesome-free\\js\\all.js",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\js\\all.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\fontawesome-free\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\js\\v4-shims.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\gsap\\src\\minified\\TweenMax.min.js",
+      "PackagePath": "staticwebassets\\vendor\\gsap\\src\\minified\\TweenMax.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\gsap\\src\\minified\\plugins\\ScrollToPlugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\gsap\\src\\minified\\plugins\\ScrollToPlugin.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\hammerjs\\hammer.min.js",
+      "PackagePath": "staticwebassets\\vendor\\hammerjs\\hammer.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\hammerjs\\hammer.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\hammerjs\\hammer.min.js.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\vendor\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\vendor\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\vendor\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\vendor\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\vendor\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\jarallax\\dist\\jarallax-video.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jarallax\\dist\\jarallax-video.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\jarallax\\dist\\jarallax.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jarallax\\dist\\jarallax.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\jquery-countdown\\dist\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery-countdown\\dist\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\keymaster\\keymaster.js",
+      "PackagePath": "staticwebassets\\vendor\\keymaster\\keymaster.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\moment-timezone\\builds\\moment-timezone-with-data.min.js",
+      "PackagePath": "staticwebassets\\vendor\\moment-timezone\\builds\\moment-timezone-with-data.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\moment\\min\\moment.min.js",
+      "PackagePath": "staticwebassets\\vendor\\moment\\min\\moment.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\nanoscroller\\bin\\javascripts\\jquery.nanoscroller.js",
+      "PackagePath": "staticwebassets\\vendor\\nanoscroller\\bin\\javascripts\\jquery.nanoscroller.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\object-fit-images\\dist\\ofi.min.js",
+      "PackagePath": "staticwebassets\\vendor\\object-fit-images\\dist\\ofi.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\photoswipe\\dist\\default-skin\\default-skin.css",
+      "PackagePath": "staticwebassets\\vendor\\photoswipe\\dist\\default-skin\\default-skin.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\photoswipe\\dist\\default-skin\\default-skin.png",
+      "PackagePath": "staticwebassets\\vendor\\photoswipe\\dist\\default-skin\\default-skin.png"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\photoswipe\\dist\\default-skin\\default-skin.svg",
+      "PackagePath": "staticwebassets\\vendor\\photoswipe\\dist\\default-skin\\default-skin.svg"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\photoswipe\\dist\\default-skin\\preloader.gif",
+      "PackagePath": "staticwebassets\\vendor\\photoswipe\\dist\\default-skin\\preloader.gif"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\photoswipe\\dist\\photoswipe-ui-default.min.js",
+      "PackagePath": "staticwebassets\\vendor\\photoswipe\\dist\\photoswipe-ui-default.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\photoswipe\\dist\\photoswipe.css",
+      "PackagePath": "staticwebassets\\vendor\\photoswipe\\dist\\photoswipe.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\photoswipe\\dist\\photoswipe.min.js",
+      "PackagePath": "staticwebassets\\vendor\\photoswipe\\dist\\photoswipe.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\popper.js\\dist\\umd\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\dist\\umd\\popper.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\popper.js\\dist\\umd\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\dist\\umd\\popper.min.js.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\soundmanager2\\script\\soundmanager2-jsmin.js",
+      "PackagePath": "staticwebassets\\vendor\\soundmanager2\\script\\soundmanager2-jsmin.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\soundmanager2\\script\\soundmanager2-nodebug-jsmin.js",
+      "PackagePath": "staticwebassets\\vendor\\soundmanager2\\script\\soundmanager2-nodebug-jsmin.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\sticky-kit\\dist\\sticky-kit.min.js",
+      "PackagePath": "staticwebassets\\vendor\\sticky-kit\\dist\\sticky-kit.min.js"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\summernote\\dist\\font\\summernote.eot",
+      "PackagePath": "staticwebassets\\vendor\\summernote\\dist\\font\\summernote.eot"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\summernote\\dist\\font\\summernote.ttf",
+      "PackagePath": "staticwebassets\\vendor\\summernote\\dist\\font\\summernote.ttf"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\summernote\\dist\\font\\summernote.woff",
+      "PackagePath": "staticwebassets\\vendor\\summernote\\dist\\font\\summernote.woff"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\summernote\\dist\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\vendor\\summernote\\dist\\summernote-bs4.css"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\summernote\\dist\\summernote-bs4.js.map",
+      "PackagePath": "staticwebassets\\vendor\\summernote\\dist\\summernote-bs4.js.map"
+    },
+    {
+      "Id": "Z:\\University\\HK5-22-8-2023\\LapTrinhWeb\\GiuaKi\\testtieplan4\\testtieplan4\\wwwroot\\vendor\\summernote\\dist\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summernote\\dist\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.testtieplan4.props",
+      "PackagePath": "build\\testtieplan4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.testtieplan4.props",
+      "PackagePath": "buildMultiTargeting\\testtieplan4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.testtieplan4.props",
+      "PackagePath": "buildTransitive\\testtieplan4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.testtieplan4.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

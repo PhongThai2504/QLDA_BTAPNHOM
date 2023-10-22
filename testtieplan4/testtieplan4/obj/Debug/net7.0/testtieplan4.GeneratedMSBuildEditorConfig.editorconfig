@@ -1,0 +1,149 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = testtieplan4
+build_property.RootNamespace = testtieplan4
+build_property.ProjectDir = C:\Users\ADMIN\Downloads\ProjectNhom7\testtieplan4\testtieplan4\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ADMIN\Downloads\ProjectNhom7\testtieplan4\testtieplan4
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/blogarticle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxibG9nYXJ0aWNsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/blogfullwidth.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxibG9nZnVsbHdpZHRoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/bloggrid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxibG9nZ3JpZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/bloglist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxibG9nbGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/comingsoon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb21pbmdzb29uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/documentation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxkb2N1bWVudGF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/e404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxlNDA0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/elements.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxlbGVtZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/forum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxmb3J1bS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/forumsingletopic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxmb3J1bXNpbmdsZXRvcGljLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/forumtopics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxmb3J1bXRvcGljcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/gallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxnYWxsZXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/news.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxuZXdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/offline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxvZmZsaW5lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/store.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzdG9yZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/storecart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzdG9yZWNhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/storecatalog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzdG9yZWNhdGFsb2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/storecatalogalt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzdG9yZWNhdGFsb2dhbHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/storecheckout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzdG9yZWNoZWNrb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/storeproduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzdG9yZXByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/tournaments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0b3VybmFtZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/tournamentsteammate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0b3VybmFtZW50c3RlYW1tYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/tournamentsteams.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0b3VybmFtZW50c3RlYW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Home/widgets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx3aWRnZXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/ProjectNhom7/testtieplan4/testtieplan4/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cxlm8u2v7p
